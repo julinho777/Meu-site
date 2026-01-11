@@ -49,4 +49,12 @@ p {
 .btn:hover {
   background: #1ebe5d;
 }
-
+.offer {
+  background: #25D366;
+  color: white;
+  font-weight: bold;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 25px;
+  font-size: 16px;
+}
