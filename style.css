@@ -50,11 +50,13 @@ p {
   background: #1ebe5d;
 }
 .offer {
-  background: #25D366;
-  color: white;
+  background: #ff9800;
+  color: #ffffff;
   font-weight: bold;
-  padding: 12px;
-  border-radius: 8px;
+  padding: 14px;
+  border-radius: 10px;
   margin-bottom: 25px;
   font-size: 16px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
 }
